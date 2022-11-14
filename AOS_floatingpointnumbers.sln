@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOS_floatingpointnumbers", "AOS_floatingpointnumbers\AOS_floatingpointnumbers.csproj", "{0B5AFC94-5B41-4565-8F19-C093F881D4BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOS_floationgpointnumbers.Tests", "AOS_floationgpointnumbers.Tests\AOS_floationgpointnumbers.Tests.csproj", "{620B6609-9983-4050-A805-8E96833B9B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5AFC94-5B41-4565-8F19-C093F881D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5AFC94-5B41-4565-8F19-C093F881D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5AFC94-5B41-4565-8F19-C093F881D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5AFC94-5B41-4565-8F19-C093F881D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620B6609-9983-4050-A805-8E96833B9B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620B6609-9983-4050-A805-8E96833B9B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620B6609-9983-4050-A805-8E96833B9B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620B6609-9983-4050-A805-8E96833B9B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
